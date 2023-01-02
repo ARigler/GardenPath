@@ -1,6 +1,6 @@
 # GardenPath
 
-##<a name ="description">
+<a name ="description">
 
 ## Description
 
